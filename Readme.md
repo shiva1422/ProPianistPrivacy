@@ -1,12 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width'>
-    <title>Privacy Policy</title>
-    <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-</head>
 <body>
 <strong>Privacy Policy</strong>
 <p>
@@ -30,32 +22,22 @@
 
 <p><strong>Information Collection and Use</strong></p>
 <p>
-    For a better experience, while using our Service, we
-    may require you to provide us with certain personally
-    identifiable information. The information that
-    I request will be retained on your device and is not collected by me in any way.
-</p> <div><p>
-    The app does use third party services that may collect
+    The app doesn't collect or use any personally identifiable information at this time
+</p> <div>
+    
+<p>
+    The app does not use third party services that may collect
     information used to identify you.
-</p> <p>
-    Link to privacy policy of third party service providers used
-    by the app
-</p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li><li><a href="https://firebase.google.com/policies/analytics" target="_blank">Google Analytics for Firebase</a></li><li><a href="https://firebase.google.com/support/privacy/" target="_blank">Firebase Crashlytics</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
-    We want to inform you that whenever you
-    use my Service, in a case of an error in the app
-    We collect data and information (through third party
-    products) on your phone called Log Data. This Log Data may
-    include information such as your device Internet Protocol
-    (“IP”) address, device name, operating system version, the
-    configuration of the app when utilizing my Service,
-    the time and date of your use of the Service, and other
-    statistics.
-</p> <p><strong>Cookies</strong></p> <p>
-    Cookies are files with a small amount of data that are
-    commonly used as anonymous unique identifiers. These are sent
-    to your browser from the websites that you visit and are
-    stored on your device's internal memory.
-</p> <p>
+</p>
+
+<p>
+    The app doesn't use any third party services to collect data. If it uses the links to privacy polices of third party will be update here
+</p> 
+
+<p> The app doesn't collect any log data </p>
+   
+</p> <p><strong>Cookies</strong></p> 
+ <p>
     This Service does not use these “cookies” explicitly. However,
     the app may use third party code and libraries that use
     “cookies” to collect information and improve their services.
@@ -63,10 +45,18 @@
     and know when a cookie is being sent to your device. If you
     choose to refuse our cookies, you may not be able to use some
     portions of this Service.
-</p> <p><strong>Service Providers</strong></p> <p>
+</p> 
+<p><strong>Service Providers</strong></p> 
+<p>
     We may employ third-party companies and
     individuals due to the following reasons:
-</p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p>
+</p> 
+<ul><li>To facilitate our Service;</li> 
+    <li>To provide the Service on our behalf;</li> 
+    <li>To perform Service-related services; or</li> 
+    <li>To assist us in analyzing how our Service is used.</li>
+</ul>
+<p>
     I want to inform users of this Service
     that these third parties have access to your Personal
     Information. The reason is to perform the tasks assigned to
