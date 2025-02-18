@@ -2,8 +2,8 @@
 <body>
 <strong>Privacy Policy</strong>
 <p>
-     ProPianist app is built as free app. This SERVICE is provided by
-    us at no cost and is intended for use as
+     ProTempo app is built as free app. This SERVICE is provided by
+    us at no cost and is intended for use as without any warranty
     is.
 </p>
 <p>
@@ -94,7 +94,7 @@
     periodically for any changes. We will
     notify you of any changes by posting the new Privacy Policy on
     this page.
-</p> <p>This policy is effective as of 09/11/2024</p> <p><strong>Contact Us</strong></p> <p>
+</p> <p>This policy is effective as of 02/19/2025</p> <p><strong>Contact Us</strong></p> <p>
     If you have any questions or suggestions about our
     Privacy Policy, do not hesitate to contact  at pspr142@gmail.com.
 </p>
